@@ -186,7 +186,7 @@ More projects coming soon...
 
 <div align="center"><a href="mailto:prakashsreewin@gmail.com">
 <img src="https://img.shields.io/badge/GMAIL-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a><a href="https://www.linkedin.com/in/sreewin-prakash/">
+</a><a href="https://www.linkedin.com/in/Sreewin-Prakash/">
 <img src="https://img.shields.io/badge/LINKEDIN-Sreewin%20Prakash-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a><a href="https://github.com/Sreewin-Prakash">
 <img src="https://img.shields.io/badge/GITHUB-Sreewin--Prakash-181717?style=for-the-badge&logo=github&logoColor=white"/>
