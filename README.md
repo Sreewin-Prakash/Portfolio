@@ -126,13 +126,6 @@ Full-Stack Applications
 
 ---
 
-📊 GitHub Stats
-
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=Sreewin-Prakash&show_icons=true&theme=transparent)
-
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=Sreewin-Prakash&layout=compact&theme=transparent)
-
----
 
 💭 My Philosophy
 
@@ -147,8 +140,11 @@ I believe the best way to learn technology is by building real things and unders
 I'm always interested in connecting with students, developers, engineers, and people working on interesting technology projects.
 
 📧 Email: prakashsreewin@gmail.com
-💼 LinkedIn: Sreewin Prakash
-🐙 GitHub: "@Sreewin-Prakash" (https://github.com/Sreewin-Prakash)
+
+💼 LinkedIn: SreewinPrakash
+
+🐙 GitHub: "@Sreewin-Prakash" 
+(https://github.com/Sreewin-Prakash)
 
 ---
 
